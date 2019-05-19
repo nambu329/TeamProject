@@ -17,7 +17,7 @@
     <td colspan="2"><h2>Project 개요 및 소개</h2></td>
   </tr>
   <tr>
-    <td></td>
+    <td><img src="https://user-images.githubusercontent.com/47166170/57978563-3c0afe00-7a4b-11e9-947e-bc7766ef57d9.PNG" width="950px"/></td>
   </tr>
 
   <br>
