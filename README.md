@@ -106,10 +106,10 @@
     <td><img src="https://user-images.githubusercontent.com/47166170/57978652-b8521100-7a4c-11e9-89b3-2ce23ea385dc.PNG" width="950px"/></td>
   </tr> 
     <tr>
-    <td><img src="https://user-images.githubusercontent.com/47166170/57978656-c30ca600-7a4c-11e9-8fd5-099440ffed0b.PNG" width="950px"/></td>
+    <td><img src="https://user-images.githubusercontent.com/47166170/57978743-cfddc980-7a4d-11e9-9d42-880835864e65.PNG" width="950px"/></td>
   </tr> 
     <tr>
-    <td><img src="https://user-images.githubusercontent.com/47166170/57978659-cb64e100-7a4c-11e9-8fe4-12671fb761c1.PNG" width="950px"/></td>
+    <td><img src="https://user-images.githubusercontent.com/47166170/57978744-cfddc980-7a4d-11e9-9e93-c6720c05b6a7.PNG" width="950px"/></td>
   </tr> 
     <tr>
     <td><img src="https://user-images.githubusercontent.com/47166170/57978661-d3bd1c00-7a4c-11e9-9cd0-80e425e5dec7.PNG" width="950px"/></td>
