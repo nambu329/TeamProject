@@ -121,9 +121,6 @@
     <td><img src="https://user-images.githubusercontent.com/47166170/57978674-e7688280-7a4c-11e9-9fac-fa7b1f06541d.PNG" width="950px"/></td>
   </tr> 
     <tr>
-    <td><img src="https://user-images.githubusercontent.com/47166170/57978674-e7688280-7a4c-11e9-9fac-fa7b1f06541d.PNG" width="950px"/></td>
-  </tr> 
-    <tr>
     <td><img src="https://user-images.githubusercontent.com/47166170/57978677-f3ecdb00-7a4c-11e9-8ca0-6003807fe9e7.PNG" width="950px"/></td>
   </tr>
     <tr>
